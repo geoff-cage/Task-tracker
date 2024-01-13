@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm ",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting Cassandra",
+      "day": "Feb 6th at 1:30pm ",
+      "reminder": false
+    },
+    {
+      "id": "596f",
+      "text": "break bread",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "id": "fbca",
+      "text": "face off gus fringe",
+      "day": "friday 7th",
+      "reminder": false
+    },
+    {
+      "id": "fb5b",
+      "text": "email lecturer",
+      "day": "monday 12th at 9:30am",
+      "reminder": true
+    }
+  ]
+}
